@@ -24,7 +24,7 @@ Note: This module is intended to be used by another "root" module, or as part of
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~> 4.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 5.57.0 |
 
 ## Providers
 
@@ -34,7 +34,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_project_workspace"></a> [project\_workspace](#module\_project\_workspace) | github.com/BCDevOps/terraform-aws-sea-account-set.git | v0.3 |
+| <a name="module_project_workspace"></a> [project\_workspace](#module\_project\_workspace) | github.com/BCDevOps/terraform-aws-sea-account-set.git | v0.4 |
 
 ## Resources
 
